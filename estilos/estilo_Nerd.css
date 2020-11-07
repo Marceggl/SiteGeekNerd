@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body{
+    background-color: indigo;
+}
+
+#principal{
+    width: 1020px;
+    height: auto;
+    margin: 0 auto;
+}
+#topo_article{
+    height: 62px;
+    margin: 0 auto;
+}
+.topo_header{
+    text-align: center;
+}
+figure{
+    background-color: #A020F0;
+    margin: 0 auto;
+}
+img.logo{
+	width: auto ;
+    height: 120px;
+    padding: 50px;
+}
+
+article{
+    background-color:#FFF;
+    height: 500px;	
+    padding:50px;
+}
+.artigo{
+    text-align: justify;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: 	#7B68EE;
+    color:#FFFFFF;
+    padding-top: 100px;
+    padding:5px;
+}
+ul{
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+a.links:link, a.links:visited{
+    background-color: cadetblue;
+    color: white;
+    padding: 12px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a.links:hover, a.links:active{
+    background-color: royalblue;
+}
+#rodape{
+    background-color: #A020F0;
+    height: px;	
+    padding:50px; 
+}
